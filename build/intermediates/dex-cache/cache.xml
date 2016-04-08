@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\ttos_vedio\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="H:\ttos_vedio\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-e9237fa2aed932cfda725d12f339ac65d6a93ae5.jar" />
+    </item>
+    <item
+        jar="H:\ttos_vedio\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="H:\ttos_vedio\app\build\intermediates\pre-dexed\debug\classes-cdd372743fb8f9756e975e0dd0f95380f4e52132.jar" />
+    </item>
+    <item
+        jar="G:\text_to_signLanguage\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="G:\text_to_signLanguage\app\build\intermediates\pre-dexed\debug\classes-233a62f145efc2bf0144f7fe3232f3a919c21143.jar" />
+    </item>
+    <item
+        jar="G:\text_to_signLanguage\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="G:\text_to_signLanguage\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-bea141d585b48c10a281f59bc5c8e6f761cd28c1.jar" />
+    </item>
+    <item
+        jar="G:\text_to_signLanguage\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="G:\text_to_signLanguage\app\build\intermediates\pre-dexed\debug\classes-d86b33f64803010ad7c0ac242b40d198fbc1d226.jar" />
+    </item>
+    <item
+        jar="C:\Users\sundar\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="H:\ttos_vedio\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-6c8de3d295eb73e37e2a92632448763d4956a4cd.jar" />
+    </item>
+    <item
+        jar="H:\ttos_vedio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="H:\ttos_vedio\app\build\intermediates\pre-dexed\debug\classes-2e3cc0c117db5da271129751ad296eecfe34deb0.jar" />
+    </item>
+
+</items>

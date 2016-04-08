@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingEnd="60dp"
+    android:paddingLeft="40dp"
+    android:paddingRight="60dp"
+    android:paddingStart="40dp"
+    android:layout_gravity="center"
+    android:gravity="center" 
+    android:background="#000000">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:paddingTop="50dp"
+        android:text="@string/text"
+        android:textSize="20sp"
+        android:textColor="#7fffd4" />
+
+    <EditText
+        android:id="@+id/gettext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:hint="@string/type"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/bconvert"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/go"
+        android:textSize="20sp"
+        android:textColor="#7fffd4" />
+
+   
+  
+</LinearLayout><!-- From: file:/H:/ttos_vedio/app/src/main/res/layout/home.xml -->

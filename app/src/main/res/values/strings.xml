@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Text to Sign Language</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">ENTER THE INPUT TEXT</string>
+    <string name="go">CONVERT</string>
+    <string name="type">TYPE HERE</string>
+    <string name="back">BACK</string>
+    <string name="message">MESSAGE IS</string>
+    <string name="replay">REPLAY</string>
+     <string name="capture">START CAPTURING VOICE</string>
+      <string name="display">CAPTURED TEXT IS</string>
+       <string name="voice">BY VOICE</string>
+    <string name="app">ABOUT THE APP</string>
+     <string name="news">NEWS APPLICATION</string>
+      <string name="byt">BY TEXT</string>
+      <string name="both"> BOTH PARALELLY</string>
+      <string name="normal">NORMAL VIDEO WITH AUDIO</string>
+      <string name="sign">SIGN LANGUAGE VIDEO WITH AUDIO</string>
+    <string name="title">TEXT TO SIGN LANGUAGE VIDEO</string>
+    <string name="appdetails">The App aims at converting a given text into a video containing sign language representation of the text. This can be used to convey the message to people who understand only sign language so that people can use it whenever needed with minimum effort!!</string>
+    <string name="speachu">CONVERT TO SPEECH</string>
+    <string name="play">PLAY</string>
+    <string name="finger">FINGER SPELLING</string>
+    <string name="playyy">PLAY</string>
+    <string name="convved">CONVERT TO VIDEO</string>
+
+</resources>
